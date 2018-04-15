@@ -1,2 +1,5 @@
 # auth-graphql-starter
-Starter project from a GraphQL course on Udemy.com - Section 3!
+
+Final project from GraphQL tutorial from Stephen Grider on Udemy. Full-stack React app using GraphQL to query a MongoDB database.
+
+This project served as a robust introduction to MongoDB and Passport.js.
